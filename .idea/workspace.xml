@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff27f4b-8b26-43c2-87fb-7a7cfcfacb9b" name="Changes" comment="Example of using the Observer design-pattern in java lib">
+    <list default="true" id="2ff27f4b-8b26-43c2-87fb-7a7cfcfacb9b" name="Changes" comment="Implementation for the Observer design-pattern.">
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/ChangeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/ForecastDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/HeatIndexDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/LocationData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/SimpleChangeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/StatisticsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/img.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Americano.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Beverage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Cappuccino.java" afterDir="false" />
@@ -31,6 +17,8 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Espresso.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Latte.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +216,7 @@
       <workItem from="1728407093919" duration="679000" />
       <workItem from="1728579747285" duration="38000" />
       <workItem from="1728681171095" duration="732000" />
-      <workItem from="1728738815743" duration="2172000" />
+      <workItem from="1728738815743" duration="3033000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -278,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728739646260</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Implementation for the Observer design-pattern.">
+      <option name="closed" value="true" />
+      <created>1728741241873</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728741241873</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +310,8 @@
     <MESSAGE value="Implementation for the Strategy design-pattern." />
     <MESSAGE value="Addition to previous commit." />
     <MESSAGE value="Example of using the Observer design-pattern in java lib" />
-    <option name="LAST_COMMIT_MESSAGE" value="Example of using the Observer design-pattern in java lib" />
+    <MESSAGE value="Implementation for the Observer design-pattern." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementation for the Observer design-pattern." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
