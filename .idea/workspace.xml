@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff27f4b-8b26-43c2-87fb-7a7cfcfacb9b" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2ff27f4b-8b26-43c2-87fb-7a7cfcfacb9b" name="Changes" comment="Addition to previous commit.">
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/swing/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/swing/SwingObserverExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/ChangeManager.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/CurrentConditionsDisplay.java" afterDir="false" />
@@ -24,44 +20,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/Subject.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/WeatherData.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/observer/weather/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/expandingClassFunctionalityViaStrategy/Americano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/expandingClassFunctionalityViaStrategy/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/expandingClassFunctionalityViaStrategy/Cappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/expandingClassFunctionalityViaStrategy/CaramelSyrup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/expandingClassFunctionalityViaStrategy/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/expandingClassFunctionalityViaStrategy/Cinnamon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/expandingClassFunctionalityViaStrategy/CoffeeShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/expandingClassFunctionalityViaStrategy/Condiment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/expandingClassFunctionalityViaStrategy/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/expandingClassFunctionalityViaStrategy/Latte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/expandingClassFunctionalityViaStrategy/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/FeedGatherer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/entity/BaseLikeableEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/entity/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/entity/InterestScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/entity/Like.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/entity/PersonalInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/entity/Picture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/entity/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/entity/Tag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/entity/TotalInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/service/FeedService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/service/feedUtils/FeedSortingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/service/feedUtils/PersonalInterestBasedStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/service/feedUtils/PublicationTimeBasedStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/behavioral/strategy/socialNetworkFeedGathering/service/feedUtils/TotalPopularityBasedStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/composite/BaseShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/composite/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/composite/CompoundShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/composite/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/composite/Dot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/composite/ImageEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/composite/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/composite/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/composite/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/composite/img.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Americano.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Beverage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Cappuccino.java" afterDir="false" />
@@ -73,6 +31,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Espresso.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Latte.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/chirko/structural/decorator/Mocha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,17 +58,31 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="Implementation for the Strategy design-pattern." />
+        <option name="rewordedMessage" value="Implementation for the Strategy design-pattern." />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="39548431e1973c64951d7ec0fddff84521e8adc8" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.34/lombok-1.18.34-sources.jar!/lombok/experimental/SuperBuilder.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -122,25 +95,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/konstantin/java/DisignPatternsImplentation",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/konstantin/Desktop/welcome-to-docker&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.chirko.behavioral.strategy.expandingClassFunctionalityViaStrategy" />
@@ -154,7 +127,7 @@
       <recent name="C:\Users\konstantin\java\DisignPatternsImplentation\src\main\java\org\chirko\behavioral\observer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.SwingObserverExample">
     <configuration name="CoffeeShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.chirko.structural.decorator.coffeShop.CoffeeShop" />
       <module name="DisignPatternsImplentation" />
@@ -181,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwingObserverExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chirko.behavioral.observer.swing.SwingObserverExample" />
+    <configuration name="FeedGatherer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chirko.behavioral.strategy.socialNetworkFeedSorting.FeedGatherer" />
       <module name="DisignPatternsImplentation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chirko.behavioral.observer.swing.*" />
+          <option name="PATTERN" value="org.chirko.behavioral.strategy.socialNetworkFeedSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chirko.behavioral.observer.weather.WeatherStation" />
+    <configuration name="SwingObserverExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chirko.behavioral.observer.swing.SwingObserverExample" />
       <module name="DisignPatternsImplentation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chirko.behavioral.observer.weather.*" />
+          <option name="PATTERN" value="org.chirko.behavioral.observer.swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwingObserverExample" />
+        <item itemvalue="Application.FeedGatherer" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.org.chirko.behavioral.strategy.expandingClassFunctionalityViaStrategy.CoffeeShop" />
         <item itemvalue="Application.CoffeeShop" />
-        <item itemvalue="Application.WeatherStation" />
-        <item itemvalue="Application.SwingObserverExample" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +223,12 @@
       <workItem from="1728229311980" duration="2295000" />
       <workItem from="1728315377908" duration="1389000" />
       <workItem from="1728316785765" duration="5271000" />
-      <workItem from="1728323773729" duration="1997000" />
+      <workItem from="1728323773729" duration="4040000" />
+      <workItem from="1728327843131" duration="1051000" />
+      <workItem from="1728407093919" duration="679000" />
+      <workItem from="1728579747285" duration="38000" />
+      <workItem from="1728681171095" duration="732000" />
+      <workItem from="1728738815743" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -260,7 +238,39 @@
       <option name="project" value="LOCAL" />
       <updated>1728322983746</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implementation for the Composite design-pattern.">
+      <option name="closed" value="true" />
+      <created>1728325899830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728325899830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Small change">
+      <option name="closed" value="true" />
+      <created>1728326022344</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728326022344</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implementation for the Strategy design-pattern.">
+      <option name="closed" value="true" />
+      <created>1728328290032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728328290032</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Addition to previous commit.">
+      <option name="closed" value="true" />
+      <created>1728328822120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728328822120</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +301,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Implementation for the Composite design-pattern." />
+    <MESSAGE value="Small change" />
+    <MESSAGE value="Implementation for the Strategy design-pattern." />
+    <MESSAGE value="Addition to previous commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Addition to previous commit." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
