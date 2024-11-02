@@ -1,4 +1,4 @@
-package org.chirko.creational;
+package org.chirko.creational.builder;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

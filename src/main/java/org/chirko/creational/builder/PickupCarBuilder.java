@@ -1,4 +1,4 @@
-package org.chirko.creational;
+package org.chirko.creational.builder;
 
 public class PickupCarBuilder extends AbstractCarBuilder {
     public Car build() {

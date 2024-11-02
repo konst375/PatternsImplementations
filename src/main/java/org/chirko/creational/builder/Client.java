@@ -1,4 +1,4 @@
-package org.chirko.creational;
+package org.chirko.creational.builder;
 
 public class Client {
     public static void main(String[] args) {

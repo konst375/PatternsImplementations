@@ -1,4 +1,4 @@
-package org.chirko.creational;
+package org.chirko.creational.builder;
 
 public interface CarBuilder {
     CarBuilder setCarType(String type);

@@ -1,4 +1,4 @@
-package org.chirko.creational;
+package org.chirko.creational.builder;
 
 public class AbstractCarBuilder implements CarBuilder {
     protected String carType;
