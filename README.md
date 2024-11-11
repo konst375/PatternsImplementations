@@ -19,7 +19,7 @@ This repository is a collection of design patterns from the book *"Design Patter
 ### Creational Patterns
 
 - [ ] **Singleton**: Ensures a class has only one instance and provides a global point of access to it.
-- [ ] **Factory Method**: Defines an interface for creating an object, but lets subclasses alter the type of objects that will be created.
+- [x] **Factory Method**: Defines an interface for creating an object, but lets subclasses alter the type of objects that will be created.
 - [x] **Abstract Factory**: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 - [x] **Builder**: Separates the construction of a complex object from its representation so that the same construction process can create different representations.
 - [ ] **Prototype**: Specifies the kinds of objects to create using a prototypical instance, and creates new objects by copying this prototype.
